@@ -9,9 +9,9 @@ Projet fictif de gestion d'un parc automobile pour une agglomération française
 Votre société a répondu à un appel d’offre public pour une très grande agglomeration en France .
 Ce marché concerne la gestion des places de parking, le paiement du stationnement et le  suivi de celles-ci.
 
-Ceci pour permettre l’étude des usages, la verification du paiement des usagers et les délits de stationnement ( stationnement sur trottoir etc.).
+Ceci pour permettre l’étude des usages, la vérification du paiement des usagers et les délits de stationnement ( stationnement sur trottoir etc.).
 
-A terme cela permettra d’améliorer la fluidification des véhicules et la modification des habitudes du “dernier kilomètre”.Les solutions devront être compatibles avec les nouvelles zones à faible émissions pour la  circulation et la stationnement, il faudra prendre en compte la nouvelle réglementation sur le stationnement payant  des 2 et 3 roues.
+A terme cela permettra d’améliorer la fluidification des véhicules et la modification des habitudes du “dernier kilomètre”. Les solutions devront être compatibles avec les nouvelles zones à faible émissions pour la  circulation et la stationnement, il faudra prendre en compte la nouvelle réglementation sur le stationnement payant  des 2 et 3 roues.
 
 Il y aura un enjeu sur les  occupations des nouveaus modes de déplacements type trotinette électrique , scooter électrique de société “uberisées” qui stationnent de manière erratique.le marché nécessite plusieurs  études et outils  qui permettront  la modification et l’ évolution du système d’information de l’agglomeration :
 * Mise en place d’un outil de suivi en temps réel des places de parking utilisées
